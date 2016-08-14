@@ -1,0 +1,21 @@
+body {
+  background-color: #99ccff;
+  color: #00264d;
+}
+
+h1 {
+  text-align: center;
+}
+
+.align {
+  text-align: center;
+  height: 60%;
+}
+
+.align-alt {
+  margin: 5% 40% 30% 45%;
+}
+
+.man_page {
+  margin: 10%;
+}
